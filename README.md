@@ -5,4 +5,4 @@ Wrote in JS to download a satellite image to your Google Drive.
 
 Everything you need to know for using it is written in the script comments.
 
-**Enjo**
+**Enjoy**
